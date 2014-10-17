@@ -1,0 +1,5 @@
+node_zero=localhost
+port_zero=27017
+node_one=192.168.0.95
+port_one=27017
+dbName=courses
